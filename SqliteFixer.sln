@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqliteFixer", "SqliteFixer\SqliteFixer.csproj", "{505C76E5-039B-45F3-9C7A-FA7580B6400A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqliteFixer.Desktop", "SqliteFixer.Desktop\SqliteFixer.Desktop.csproj", "{F6D04AF7-FFFB-4D13-AA18-207E9196A26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505C76E5-039B-45F3-9C7A-FA7580B6400A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505C76E5-039B-45F3-9C7A-FA7580B6400A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505C76E5-039B-45F3-9C7A-FA7580B6400A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505C76E5-039B-45F3-9C7A-FA7580B6400A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D04AF7-FFFB-4D13-AA18-207E9196A26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D04AF7-FFFB-4D13-AA18-207E9196A26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D04AF7-FFFB-4D13-AA18-207E9196A26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D04AF7-FFFB-4D13-AA18-207E9196A26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1A10D4-8C6E-4295-AE2F-B6FF7D510024}
+	EndGlobalSection
+EndGlobal
