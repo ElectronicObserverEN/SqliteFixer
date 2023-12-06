@@ -10,7 +10,7 @@ namespace SqliteFixer.ViewModels;
 
 public partial class MainViewModel : ViewModelBase
 {
-	private static string SqliteToolsDownloadLink => "https://raw.githubusercontent.com/ElectronicObserverEN/SqliteFixer/main/SqliteFixer.Desktop.exe";
+	private static string SqliteToolsDownloadLink => "https://raw.githubusercontent.com/ElectronicObserverEN/SqliteFixer/main/sqlite3.exe";
 	private static string SqliteToolsPath => "sqlite3.exe";
 	private static string DbFilePath => "Record/ElectronicObserver.sqlite";
 
